@@ -1,3 +1,4 @@
+#$ HIDDEN: true
 #$ TITLE: the Karate array
 #$ FIRMWARE_VERSION: 4.3
 #$ FIRMWARE_VERSION: 4.4

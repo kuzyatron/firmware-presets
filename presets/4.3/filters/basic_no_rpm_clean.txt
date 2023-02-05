@@ -1,3 +1,4 @@
+#$ HIDDEN: true
 #$ TITLE: 4.3 Filter settings for CLEAN build WITH NO RPM FILTERING.
 #$ FIRMWARE_VERSION: 4.3
 #$ FIRMWARE_VERSION: 4.4
